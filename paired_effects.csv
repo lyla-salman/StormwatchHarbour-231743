@@ -1,0 +1,6 @@
+metric,mean_difference_persistence_minus_original,sd_of_paired_differences
+voluntary_switches,-99.8,17.26782492897637
+cargo_delivered,2.1,8.345990387938125
+avg_ship_wait,-0.7922999999999973,1.802516885419445
+crowding_violations,0,0.0
+storm_knockouts,0,0.0

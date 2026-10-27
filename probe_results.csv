@@ -1,0 +1,4 @@
+case_id,question,expected,statement,supported,correct_abstention,valid_output,passed,seconds,error
+P1,What cargo is on ship 9?,Ship 9 does not appear in this report.,The harbour is open.,True,False,True,False,6.41403790001641,
+P2,What type of goods is ship 3 carrying?,The cargo type of ship 3 is not provided in this report.,The harbour is open.,True,False,True,False,3.025881000008667,
+P3,Which ship is docked at berth B9?,Berth B9 does not appear in this report.,The harbour is open.,True,False,True,False,3.2053423000033945,

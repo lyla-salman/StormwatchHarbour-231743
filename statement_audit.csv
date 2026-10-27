@@ -1,0 +1,11 @@
+sample_id,seed,tick,run_id,statement,supported_by_exact_report_fact,accepted_by_runtime,matching_fact
+S01,11,200,4580b93784f34d7eb38e2d68d4b2ae5e,Berth B3 has ship 3 with 1 cargo units remaining.,True,True,Berth B3 has ship 3 with 1 cargo units remaining.
+S02,11,400,4580b93784f34d7eb38e2d68d4b2ae5e,Berth B3 has ship 17 with 7 cargo units remaining.,True,True,Berth B3 has ship 17 with 7 cargo units remaining.
+S03,12,200,94d34f2b6eb640f59c38ea5b9da28975,Berth B3 has ship 3 with 2 cargo units remaining.,True,True,Berth B3 has ship 3 with 2 cargo units remaining.
+S04,12,400,94d34f2b6eb640f59c38ea5b9da28975,Berth B3 has ship 11 with 2 cargo units remaining.,True,True,Berth B3 has ship 11 with 2 cargo units remaining.
+S05,13,200,56ee8185ed344273be188a60e105be1c,Berth B3 has ship 3 with 4 cargo units remaining.,True,True,Berth B3 has ship 3 with 4 cargo units remaining.
+S06,13,400,56ee8185ed344273be188a60e105be1c,Berth B3 has ship 18 with 9 cargo units remaining.,True,True,Berth B3 has ship 18 with 9 cargo units remaining.
+S07,14,200,3268fd028e684a3b9b1bcc107757f55e,Berth B3 has ship 11 with 9 cargo units remaining.,True,True,Berth B3 has ship 11 with 9 cargo units remaining.
+S08,14,400,3268fd028e684a3b9b1bcc107757f55e,Berth B3 has ship 17 with 4 cargo units remaining.,True,True,Berth B3 has ship 17 with 4 cargo units remaining.
+S09,15,200,07d53e5728164b75b4d7a5571151158b,Berth B3 has ship 3 with 4 cargo units remaining.,True,True,Berth B3 has ship 3 with 4 cargo units remaining.
+S10,15,400,07d53e5728164b75b4d7a5571151158b,Berth B3 has ship 13 with 1 cargo units remaining.,True,True,Berth B3 has ship 13 with 1 cargo units remaining.

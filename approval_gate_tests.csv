@@ -1,0 +1,3 @@
+action,human_approved,state_unchanged,passed,result
+close_harbour,False,True,True,BLOCKED: required human approval was not supplied.
+release_cargo,False,True,True,BLOCKED: required human approval was not supplied.

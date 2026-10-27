@@ -1,0 +1,24 @@
+{
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "digit": 3,
+  "persistence_bonus": 0.5,
+  "original_simulation_sha256": "45d13508fb58debe3c62f6e39a59689907c9bbd4c7c8778fb9a82d07df77b456",
+  "count_definition": "Berth changes while empty at tick start, old ship still has cargo at tick end, old berth not storm-excluded.",
+  "caveats": [
+    "The selected worker is illustrative, not a random sample.",
+    "Fewer switches alone do not prove better throughput.",
+    "Safety-driven switches and empty-ship replacements are excluded.",
+    "This intervention does not replace the frozen main evaluation policy."
+  ]
+}

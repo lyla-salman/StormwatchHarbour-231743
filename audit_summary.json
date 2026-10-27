@@ -1,0 +1,136 @@
+{
+  "sample_size": 10,
+  "unsupported": 0,
+  "unsupported_percent": 0.0,
+  "malformed_or_missing_final_reports_in_selected_runs": 0,
+  "sampling": "Two predetermined positions (one-third and two-thirds) per seed, 11-15; latest complete live run.",
+  "scope": "Exact support for complete Final Report statements, including rejected ones if present. This is not an audit of every token or an unconstrained hallucination benchmark.",
+  "generation_caveat": "The v2 output schema restricts Final Report to supplied facts. A zero rate is therefore evidence of the guard working in these samples, not proof that the model freely reasons without hallucinating.",
+  "runs": [
+    {
+      "seed": 11,
+      "run_id": "4580b93784f34d7eb38e2d68d4b2ae5e",
+      "date_utc": "2026-10-26T10:14:22.631519+00:00",
+      "backend": {
+        "model": "qwen3:4b",
+        "model_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+        "ollama_version": "0.40.5",
+        "temperature": 0.0,
+        "thinking": false,
+        "num_ctx": 8192,
+        "num_predict": 384
+      },
+      "config": {
+        "response_protocol": "decision_schema_v2",
+        "digit": 3,
+        "seed": 11,
+        "max_ticks": 600,
+        "actions_per_turn": 1,
+        "few_shot": true,
+        "untrusted_digest": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "model": "qwen3:4b",
+        "temperature": 0.0
+      }
+    },
+    {
+      "seed": 12,
+      "run_id": "94d34f2b6eb640f59c38ea5b9da28975",
+      "date_utc": "2026-10-26T10:16:29.397604+00:00",
+      "backend": {
+        "model": "qwen3:4b",
+        "model_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+        "ollama_version": "0.40.5",
+        "temperature": 0.0,
+        "thinking": false,
+        "num_ctx": 8192,
+        "num_predict": 384
+      },
+      "config": {
+        "response_protocol": "decision_schema_v2",
+        "digit": 3,
+        "seed": 12,
+        "max_ticks": 600,
+        "actions_per_turn": 1,
+        "few_shot": true,
+        "untrusted_digest": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "model": "qwen3:4b",
+        "temperature": 0.0
+      }
+    },
+    {
+      "seed": 13,
+      "run_id": "56ee8185ed344273be188a60e105be1c",
+      "date_utc": "2026-10-26T10:18:34.290214+00:00",
+      "backend": {
+        "model": "qwen3:4b",
+        "model_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+        "ollama_version": "0.40.5",
+        "temperature": 0.0,
+        "thinking": false,
+        "num_ctx": 8192,
+        "num_predict": 384
+      },
+      "config": {
+        "response_protocol": "decision_schema_v2",
+        "digit": 3,
+        "seed": 13,
+        "max_ticks": 600,
+        "actions_per_turn": 1,
+        "few_shot": true,
+        "untrusted_digest": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "model": "qwen3:4b",
+        "temperature": 0.0
+      }
+    },
+    {
+      "seed": 14,
+      "run_id": "3268fd028e684a3b9b1bcc107757f55e",
+      "date_utc": "2026-10-26T10:20:39.517543+00:00",
+      "backend": {
+        "model": "qwen3:4b",
+        "model_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+        "ollama_version": "0.40.5",
+        "temperature": 0.0,
+        "thinking": false,
+        "num_ctx": 8192,
+        "num_predict": 384
+      },
+      "config": {
+        "response_protocol": "decision_schema_v2",
+        "digit": 3,
+        "seed": 14,
+        "max_ticks": 600,
+        "actions_per_turn": 1,
+        "few_shot": true,
+        "untrusted_digest": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "model": "qwen3:4b",
+        "temperature": 0.0
+      }
+    },
+    {
+      "seed": 15,
+      "run_id": "07d53e5728164b75b4d7a5571151158b",
+      "date_utc": "2026-10-26T10:22:44.184357+00:00",
+      "backend": {
+        "model": "qwen3:4b",
+        "model_digest": "359d7dd4bcdab3d86b87d73ac27966f4dbb9f5efdfcc75d34a8764a09474fae7",
+        "ollama_version": "0.40.5",
+        "temperature": 0.0,
+        "thinking": false,
+        "num_ctx": 8192,
+        "num_predict": 384
+      },
+      "config": {
+        "response_protocol": "decision_schema_v2",
+        "digit": 3,
+        "seed": 15,
+        "max_ticks": 600,
+        "actions_per_turn": 1,
+        "few_shot": true,
+        "untrusted_digest": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "model": "qwen3:4b",
+        "temperature": 0.0
+      }
+    }
+  ]
+}
